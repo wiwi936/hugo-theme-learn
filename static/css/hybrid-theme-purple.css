@@ -20,8 +20,7 @@
   display: block;
   overflow-x: auto;
   padding: 0.5em;
-  /* background: #333; */
-  background: #1d1f21;
+  background: #333;
   color: white;
 }
 
@@ -76,7 +75,7 @@
 .hljs-comment,
 .hljs-deletion,
 .hljs-code {
-  color: rgb(186, 173, 219);
+  color: #888;
 }
 
 .hljs-regexp,
